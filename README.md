@@ -12,8 +12,8 @@ Este proyecto es una aplicación de ejemplo en React que demuestra el uso de [Sw
 1. **Clona el repositorio**:
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+   git clone (https://github.com/rodolfo-22/using_sweetalert.git)
+   cd using_sweetalert
    ```
 
 2. **Instala las dependencias**:
